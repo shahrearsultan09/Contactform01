@@ -1,0 +1,278 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #fafaf7;
+}
+.Contact_form{
+
+
+}
+.Heading{
+
+width: 81%;
+
+margin: auto;
+}
+.Heading h2{font-family: "Poppins", sans-serif;font-weight: 500;font-style: normal;text-align: center;margin: 100px 0 79px;letter-spacing: 1px;}
+.contact_icon{
+    display: flex;
+    justify-content: space-between;
+}
+.icon_content{
+
+width: 30%;
+}
+.icon_box{
+
+width: 60px;
+
+height: 60px;
+
+border-radius: 30px;
+
+background-color: #1bb5e5;
+
+font-size: 25px;
+
+display: flex;
+
+justify-content: center;
+
+margin: auto;
+
+color: white;
+
+align-items: center;
+
+text-align: center;
+
+margin-bottom: 30px;
+}
+.icon_content p span{
+
+color: black;
+
+font-family: "Poppins", sans-serif;
+
+font-weight: 600;
+
+font-style: normal;
+
+font-size: 17px;
+
+/* letter-spacing: 0px; */
+
+/* line-height: 1.8; */
+}
+.icon_content p{
+    
+font-family: "Poppins", sans-serif;
+    
+font-weight: 400;
+    
+font-style: normal;
+    
+text-align: center;
+    
+color: #00b5ff;
+}
+
+.Contactus{
+
+width: 80%;
+
+margin: auto;
+
+margin-top: 85px;
+}
+.contactus_content{
+
+display: flex;
+
+justify-content: space-between;
+}
+.form{
+
+width: 70%;
+
+background: #ffffff;
+}
+.form_content{
+    
+width: 82%;
+    
+margin: auto;
+}
+.form_content h2{
+
+font-family: "Poppins", sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+font-size: 29px;
+
+padding: 50px 0 25px;
+}
+
+.contactus_content img{
+    width: 50%;
+}
+.name_adress{
+
+display: flex;
+
+justify-content: space-between;
+
+margin-bottom: 29px;
+}
+.name{
+
+width: 50%;
+}
+.name label{
+
+letter-spacing: 0px;
+
+font-family: "Poppins", Arial, sans-serif;
+
+font-weight: 600;
+
+font-style: normal;
+
+font-size: 14px;
+
+text-transform: uppercase;
+}
+.name input{
+    
+width: 91%;
+    
+border: none;
+    
+box-sizing: border-box;
+    
+margin-top: 8px;
+    
+border-bottom: 1px solid #cfdddd;
+    
+font-family: "Poppins", Arial, sans-serif;
+    
+font-weight: 400;
+    
+font-size: 15px;
+    
+font-style: normal;
+    
+
+}
+.form_content p{
+
+width: 100%;
+
+letter-spacing: 0px;
+
+font-family: "Poppins", Arial, sans-serif;
+
+font-weight: 600;
+
+font-style: normal;
+
+font-size: 15px;
+
+text-transform: uppercase;
+
+margin-bottom: 4px;
+}
+.form_content input{
+    
+width: 80%;
+    
+padding: 0 0 8px 0;
+    
+border: none;
+    
+box-sizing: border-box;
+    
+margin-top: 10px;
+    
+border-bottom: 1px solid #cfdddd;
+    
+font-family: "Poppins", Arial, sans-serif;
+    
+font-weight: 400;
+    
+font-size: 15px;
+    
+font-style: normal;
+}
+.contactus_content p[type='Subject']{
+
+}
+
+.contactus_content input[type='subject']{
+ width: 90%;
+ border: none;
+ box-sizing: border-box;
+ margin-top: 8px;
+ border-bottom: 1px solid #cfdddd;
+ font-family: "Poppins", Arial, sans-serif;
+ font-weight: 400;
+ font-size: 15px;
+ font-style: normal;
+}
+.textarea_message{
+    
+}
+
+.textarea_message p{
+
+margin: 35px 0 0;
+}
+.textarea_message textarea{
+    
+border: none;
+    
+border-bottom: 1px solid #cfdddd;
+    
+font-style: normal;
+    
+font-family: "Poppins", Arial, sans-serif;
+    
+font-weight: 400;
+    
+font-style: normal;
+    
+font-size: 15px;
+    
+margin-top: 10px;
+}
+.form_content input[type='submit']{
+
+background: transparent;
+
+border: none;
+
+border: 1px solid #1bb5e5;
+
+border-radius: 5px;
+
+padding: 13px;
+
+background: #1bb5e5;
+
+color: white;
+
+margin-top: 15px;
+
+width: 27%;
+
+font-size: 14px;
+
+display: flex;
+
+justify-content: center;
+}
